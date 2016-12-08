@@ -1,6 +1,4 @@
 komt dit ook lokaal te staan
-<<<<<<< HEAD
 en we voegen een tweede lijn toe 
-=======
 we testen even een wijziging zowel lokaal als remote
->>>>>>> 618a8d71fb8aba46739551a2c0d2187f482c1f7a
+
